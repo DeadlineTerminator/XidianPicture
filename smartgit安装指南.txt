@@ -1,0 +1,34 @@
+系统：windows7+
+http://www.syntevo.com/smartgit/download?file=smartgit/smartgit-win32-setup-jre-7_1_3.zip
+复制到地址栏打开，如果没有弹出下载框，单击
+If the download does not start automatically, click here.
+的绿色的“click here.”
+
+下载完毕，解压安装。
+
+License Type
+勾选上I understand....的那个框框，然后选第三个Non-commercial...非商业用途。
+
+User Information
+填上你的用户信息吧（这里是指SmartGit的用户信息）。
+
+SSH Client
+用了第二个Use SmartGit...，因为看上去比较简单。
+
+Hosting Providers
+当然是选GitHub啦。。
+点击Generate API Token，选下面第二个Authenticate with your...，填上GitHub用户名和密码，单击Authenticate。然后就自动生成了一串Token。
+
+再然后就wait了老半天也木有好，是正常现象，等吧。。。
+终于终于到了最后一步，单击finish，完啦\(^o^)/~
+
+What do you want to do?
+单击第二个Clone existing repository
+打开GitHub网站，登录，找到想要添加到SmartGit中的库。
+点开库中的第一个标签code，第一个可以复制的URL——Quick setup...，复制那个https://github.com/用户名or组名/库名.git，粘贴到Remote Git...上。
+
+然后又等了好半天=-=。。
+
+弹出个框框，填一个本地的好找的地址（以后要用到），终于ok了~撒花\(^o^)/~
+
+
