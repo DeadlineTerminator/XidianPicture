@@ -1,6 +1,8 @@
 参考文献：
 GitHub上README.md教程 - Kaitiren的专栏 - 博客频道 - CSDN.NET  http://blog.csdn.net/kaitiren/article/details/38513715
 
+在XXX.txt中按如下格式编辑完之后保存，将文件的扩展名改为XXX.md，上传即可。
+
 1 标题
 
 #一级标题（大标题，下面带横线）
