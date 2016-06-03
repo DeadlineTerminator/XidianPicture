@@ -25,7 +25,7 @@ Hosting Providers
 What do you want to do?
 单击第二个Clone existing repository
 打开GitHub网站，登录，找到想要添加到SmartGit中的库。
-点开库中的第一个标签code，第一个可以复制的URL——Quick setup...，复制那个https://github.com/用户名or组名/库名.git，粘贴到Remote Git...上。
+点开库中的第一个标签code，在右侧有一个绿色的“Clone and download”（需要登录才能显示），点开，复制URL（https://github.com/用户名or组名/库名.git），粘贴到Remote Git...上。
 
 然后又等了好半天=-=。。
 
