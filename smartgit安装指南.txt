@@ -1,4 +1,4 @@
-系统：windows7+
+系统：windows7+  
 http://www.syntevo.com/smartgit/download?file=smartgit/smartgit-win32-setup-jre-7_1_3.zip
 复制到地址栏打开，如果没有弹出下载框，单击
 If the download does not start automatically, click here.
