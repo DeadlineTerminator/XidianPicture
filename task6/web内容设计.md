@@ -1,0 +1,27 @@
+#web内容设计
+　　采用自底向上的信息设计，将web页面链接起来。<br>
+##页面组织内容
+　　主要分为主页面、搜索页面、上传页面、注册页面、登录页面的设计。<br>
+###主页面设计
+　　采用层次结构对内容进行组织。<br>
+![XidianPicture/内容设计1](https://github.com/DeadlineTerminator/XidianPicture/blob/master/task6/%E5%86%85%E5%AE%B9%E8%AE%BE%E8%AE%A11.png)
+###搜索页面设计
+　　由于页面的跳转较多，采用网络结构对内容进行组织。<br>
+![XidianPicture/内容设计2](https://github.com/DeadlineTerminator/XidianPicture/blob/master/task6/%E5%86%85%E5%AE%B9%E8%AE%BE%E8%AE%A12.png)
+###上传页面设计
+　　采用层次结构对内容进行组织。<br>
+![](https://github.com/DeadlineTerminator/XidianPicture/blob/master/task6/%E5%86%85%E5%AE%B9%E8%AE%BE%E8%AE%A16.png)
+###注册页面设计
+　　由于页面的跳转较多，采用网络结构对内容进行组织。<br>
+![](https://github.com/DeadlineTerminator/XidianPicture/blob/master/task6/%E5%86%85%E5%AE%B9%E8%AE%BE%E8%AE%A13.png)
+###登录页面设计
+　　登录后的跳转分为用户界面和管理员界面。<br>
+![](https://github.com/DeadlineTerminator/XidianPicture/blob/master/task6/%E5%86%85%E5%AE%B9%E8%AE%BE%E8%AE%A14.png)
+####用户界面及管理员界面设计
+　　采用层次结构对内容进行组织。<br>
+![](https://github.com/DeadlineTerminator/XidianPicture/blob/master/task6/%E5%86%85%E5%AE%B9%E8%AE%BE%E8%AE%A15.png)
+##导航机制
+　　采用全局导航的方式，将导航栏放在界面的上侧实现导航功能。<br>
+　　主页面的导航可以通过单击LOGO实现。<br>
+　　搜索页面的导航可以使用搜索框实现。<br>
+![](https://github.com/DeadlineTerminator/XidianPicture/blob/master/task6/%E5%86%85%E5%AE%B9%E8%AE%BE%E8%AE%A17.png)
