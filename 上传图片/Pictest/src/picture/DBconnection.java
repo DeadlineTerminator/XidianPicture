@@ -10,7 +10,8 @@ public class DBconnection {
 			con=DriverManager.getConnection("jdbc:sqlserver://localhost:1433;DatabaseName=XDPicture","sa","DBA");
 		}
 		catch(Exception e){
-			e.printStackTrace();
+			System.out.println("¼ÓÔØÇý¶¯Ê§°Ü");
+			//e.printStackTrace();
 		}
 		return con;
 	}
